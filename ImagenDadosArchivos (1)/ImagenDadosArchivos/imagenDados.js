@@ -2,6 +2,7 @@ jugar=function(){
     let resultado;
     resultado=lanzarDado();
     console.log(resultado);
+    mostrarCara();
    
 }
 mostrarCara = function(numero){
